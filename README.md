@@ -21,3 +21,14 @@ A functional portfolio solution built with Wordpress.
 9. You have then successfully installed the Functional Portfolio Theme!
 
 ## Usage
+### Adding Sections
+- In the WordPress dashboard navigate to Sections->Add New
+- From here specify the title and the category. You may choose from 6 different categories  
+<img width="1345" alt="image" src="https://github.com/MNANDO/functional-portfolio/assets/17109419/cee1e31a-f752-4872-8155-c67b7a9d5ebb">
+### Adding Posts
+- To add experiences, education, and portfolio items, navigate to the left panel in the WordPress dashboard where you fill find each category respectively
+- From there you may create posts  
+<img width="1337" alt="image" src="https://github.com/MNANDO/functional-portfolio/assets/17109419/4f1c0fc4-8dd8-4d00-81ac-8bfb56f23db0">
+ - When you are done creating a post, you can feature it in either the About section or the Portfolio section depending on what kind of post it is
+   Here is an example of where you can feature posts in the about section  
+   <img width="1026" alt="image" src="https://github.com/MNANDO/functional-portfolio/assets/17109419/c256921f-2e8c-499d-8403-c814718cd77f">
