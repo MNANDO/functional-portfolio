@@ -1,5 +1,6 @@
 # functional-portfolio
-A functional portfolio solution built with Wordpress. 
+A functional portfolio solution built with Wordpress.  
+<img width="1270" alt="screenshot" src="https://github.com/MNANDO/functional-portfolio/assets/17109419/42b0dc55-ef8b-4065-bae8-f24a3c641ab6">
 
 ## Installation
 1. Locate the functional-portfolio-theme branch and download the source as zip
