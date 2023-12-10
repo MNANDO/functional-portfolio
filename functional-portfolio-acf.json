@@ -1,0 +1,1398 @@
+[
+    {
+        "key": "group_653eb88ac5ba0",
+        "title": "About Section",
+        "fields": [
+            {
+                "key": "field_653eb88ac6d66",
+                "label": "Summary",
+                "name": "summary",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb88ac6d9c",
+                "label": "Skills",
+                "name": "skills",
+                "aria-label": "",
+                "type": "group",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "layout": "block",
+                "sub_fields": [
+                    {
+                        "key": "field_653eb88ac7c3b",
+                        "label": "Skill 1",
+                        "name": "skill_1",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_653eb88ac7c72",
+                        "label": "Skill 2",
+                        "name": "skill_2",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_653eb88ac7cac",
+                        "label": "Skill 3",
+                        "name": "skill_3",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_653eb88ac7ce5",
+                        "label": "Skill 4",
+                        "name": "skill_4",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_653eb88ac7d1b",
+                        "label": "Skill 5",
+                        "name": "skill_5",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_653eb88ac7d52",
+                        "label": "Skill 6",
+                        "name": "skill_6",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_653eb88ac7d8a",
+                        "label": "Skill 7",
+                        "name": "skill_7",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_653eb88ac7dc1",
+                        "label": "Skill 8",
+                        "name": "skill_8",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    },
+                    {
+                        "key": "field_653eb88ac7df7",
+                        "label": "Skill 9",
+                        "name": "skill_9",
+                        "aria-label": "",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "default_value": "",
+                        "maxlength": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": ""
+                    }
+                ]
+            },
+            {
+                "key": "field_653eb88ac6dd2",
+                "label": "Featured Experience",
+                "name": "featured_experience",
+                "aria-label": "",
+                "type": "post_object",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "post_type": [
+                    "experience"
+                ],
+                "post_status": "",
+                "taxonomy": "",
+                "return_format": "object",
+                "multiple": 1,
+                "allow_null": 0,
+                "bidirectional": 0,
+                "ui": 1,
+                "bidirectional_target": []
+            },
+            {
+                "key": "field_653eb88ac6e07",
+                "label": "Featured Education",
+                "name": "featured_education",
+                "aria-label": "",
+                "type": "post_object",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "post_type": [
+                    "education"
+                ],
+                "post_status": "",
+                "taxonomy": "",
+                "return_format": "object",
+                "multiple": 1,
+                "allow_null": 0,
+                "bidirectional": 0,
+                "ui": 1,
+                "bidirectional_target": []
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_category",
+                    "operator": "==",
+                    "value": "category:about"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    },
+    {
+        "key": "group_653eb8b1b5416",
+        "title": "Education",
+        "fields": [
+            {
+                "key": "field_653eb8b1b6613",
+                "label": "School",
+                "name": "school",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb8b1b6649",
+                "label": "Degree",
+                "name": "degree",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb8b1b667f",
+                "label": "Date Started",
+                "name": "date_started",
+                "aria-label": "",
+                "type": "date_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "display_format": "m\/Y",
+                "return_format": "m\/Y",
+                "first_day": 1
+            },
+            {
+                "key": "field_653eb8b1b66b5",
+                "label": "Date Ended",
+                "name": "date_ended",
+                "aria-label": "",
+                "type": "date_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "display_format": "m\/Y",
+                "return_format": "m\/Y",
+                "first_day": 1
+            },
+            {
+                "key": "field_653eb8b1b66ea",
+                "label": "Education Summary",
+                "name": "education_summary",
+                "aria-label": "",
+                "type": "textarea",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "rows": "",
+                "placeholder": "",
+                "new_lines": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "education"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    },
+    {
+        "key": "group_653eb8b968b36",
+        "title": "Experience",
+        "fields": [
+            {
+                "key": "field_653eb8b969cc2",
+                "label": "Company",
+                "name": "company",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb8b969cf8",
+                "label": "Position",
+                "name": "position",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb8b969d2e",
+                "label": "Start Date",
+                "name": "start_date",
+                "aria-label": "",
+                "type": "date_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "display_format": "m\/Y",
+                "return_format": "m\/Y",
+                "first_day": 1
+            },
+            {
+                "key": "field_653eb8b969d64",
+                "label": "End Date",
+                "name": "end_date",
+                "aria-label": "",
+                "type": "date_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "display_format": "m\/Y",
+                "return_format": "m\/Y",
+                "first_day": 1
+            },
+            {
+                "key": "field_653eb8b969d99",
+                "label": "Experience Summary",
+                "name": "experience_summary",
+                "aria-label": "",
+                "type": "textarea",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "rows": "",
+                "placeholder": "",
+                "new_lines": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "experience"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    },
+    {
+        "key": "group_653eb8bd3a4e9",
+        "title": "Footer Section",
+        "fields": [
+            {
+                "key": "field_653eb8bd3b659",
+                "label": "Email",
+                "name": "email",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb8bd3b68f",
+                "label": "Phone",
+                "name": "phone",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb8bd3b6c5",
+                "label": "Address",
+                "name": "address",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb8bd3b6fa",
+                "label": "Link_1",
+                "name": "link_1",
+                "aria-label": "",
+                "type": "link",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "array"
+            },
+            {
+                "key": "field_653eb8bd3b730",
+                "label": "Link 2",
+                "name": "link_2",
+                "aria-label": "",
+                "type": "link",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "array"
+            },
+            {
+                "key": "field_653eb8bd3b766",
+                "label": "Link 3",
+                "name": "link_3",
+                "aria-label": "",
+                "type": "link",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "array"
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_category",
+                    "operator": "==",
+                    "value": "category:footer"
+                },
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "section"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "!=",
+                    "value": "category:about"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "!=",
+                    "value": "category:contact"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "!=",
+                    "value": "category:header"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "!=",
+                    "value": "category:portfolio"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "!=",
+                    "value": "category:about"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    },
+    {
+        "key": "group_653eb8c3518c2",
+        "title": "Header Section",
+        "fields": [
+            {
+                "key": "field_653eb8c352a3f",
+                "label": "Name",
+                "name": "name",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb8c352a76",
+                "label": "Title",
+                "name": "title",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb8c352aac",
+                "label": "Profile Image",
+                "name": "profile_image",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_653eb8c352ae2",
+                "label": "Github",
+                "name": "github",
+                "aria-label": "",
+                "type": "link",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url"
+            },
+            {
+                "key": "field_653eb8c352b16",
+                "label": "Linkedin",
+                "name": "linkedin",
+                "aria-label": "",
+                "type": "link",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url"
+            },
+            {
+                "key": "field_653eb8c352b4c",
+                "label": "Resume",
+                "name": "resume",
+                "aria-label": "",
+                "type": "file",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_size": "",
+                "max_size": "",
+                "mime_types": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_category",
+                    "operator": "==",
+                    "value": "category:header"
+                },
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "section"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "!=",
+                    "value": "category:about"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "!=",
+                    "value": "category:portfolio"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "!=",
+                    "value": "category:about"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    },
+    {
+        "key": "group_653eb8c81c564",
+        "title": "Portfolio Items",
+        "fields": [
+            {
+                "key": "field_653eb8c81d8b2",
+                "label": "Thumbnail",
+                "name": "thumbnail",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url",
+                "library": "all",
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": "",
+                "mime_types": "",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_653eb8c81d8e9",
+                "label": "Project Title",
+                "name": "project_title",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb8c81d91e",
+                "label": "Description",
+                "name": "description",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "maxlength": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_653eb8c81d954",
+                "label": "Github",
+                "name": "github",
+                "aria-label": "",
+                "type": "link",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url"
+            },
+            {
+                "key": "field_653eb8c81d98a",
+                "label": "Link",
+                "name": "link",
+                "aria-label": "",
+                "type": "link",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "return_format": "url"
+            },
+            {
+                "key": "field_653eb8c81d9bf",
+                "label": "Date Completed",
+                "name": "date_completed",
+                "aria-label": "",
+                "type": "date_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "display_format": "d\/m\/Y",
+                "return_format": "d\/m\/Y",
+                "first_day": 1
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "portfolio-item"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    },
+    {
+        "key": "group_653eb8ccdc0ca",
+        "title": "Portfolio Section",
+        "fields": [
+            {
+                "key": "field_653eb8ccdd4b3",
+                "label": "Featured Portfolio Items",
+                "name": "featured_portfolio_items",
+                "aria-label": "",
+                "type": "post_object",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "post_type": [
+                    "portfolio-item"
+                ],
+                "post_status": "",
+                "taxonomy": "",
+                "return_format": "object",
+                "multiple": 1,
+                "allow_null": 0,
+                "bidirectional": 0,
+                "ui": 1,
+                "bidirectional_target": []
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "section"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "==",
+                    "value": "category:portfolio"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "!=",
+                    "value": "category:header"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "!=",
+                    "value": "category:about"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "!=",
+                    "value": "category:about"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0
+    },
+    {
+        "key": "post_type_653c7f47101b7",
+        "title": "Education",
+        "menu_order": 0,
+        "active": true,
+        "post_type": "education",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Education",
+            "singular_name": "Education",
+            "menu_name": "Education",
+            "all_items": "All Education",
+            "edit_item": "Edit Education",
+            "view_item": "View Education",
+            "view_items": "View Education",
+            "add_new_item": "Add New Education",
+            "add_new": "",
+            "new_item": "New Education",
+            "parent_item_colon": "Parent Education:",
+            "search_items": "Search Education",
+            "not_found": "No education found",
+            "not_found_in_trash": "No education found in Trash",
+            "archives": "Education Archives",
+            "attributes": "Education Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into education",
+            "uploaded_to_this_item": "Uploaded to this education",
+            "filter_items_list": "Filter education list",
+            "filter_by_date": "Filter education by date",
+            "items_list_navigation": "Education list navigation",
+            "items_list": "Education list",
+            "item_published": "Education published.",
+            "item_published_privately": "Education published privately.",
+            "item_reverted_to_draft": "Education reverted to draft.",
+            "item_scheduled": "Education scheduled.",
+            "item_updated": "Education updated.",
+            "item_link": "Education Link",
+            "item_link_description": "A link to a education."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": "",
+        "menu_icon": "",
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_653c7ea11533c",
+        "title": "Experience",
+        "menu_order": 0,
+        "active": true,
+        "post_type": "experience",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Experience",
+            "singular_name": "Experience",
+            "menu_name": "Experiences",
+            "all_items": "All Experiences",
+            "edit_item": "Edit Experience",
+            "view_item": "View Experience",
+            "view_items": "View Experiences",
+            "add_new_item": "Add New Experience",
+            "add_new": "",
+            "new_item": "New Experience",
+            "parent_item_colon": "Parent Experience:",
+            "search_items": "Search Experiences",
+            "not_found": "No experiences found",
+            "not_found_in_trash": "No experiences found in Trash",
+            "archives": "Experience Archives",
+            "attributes": "Experience Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into experience",
+            "uploaded_to_this_item": "Uploaded to this experience",
+            "filter_items_list": "Filter experiences list",
+            "filter_by_date": "Filter experiences by date",
+            "items_list_navigation": "Experiences list navigation",
+            "items_list": "Experiences list",
+            "item_published": "Experience published.",
+            "item_published_privately": "Experience published privately.",
+            "item_reverted_to_draft": "Experience reverted to draft.",
+            "item_scheduled": "Experience scheduled.",
+            "item_updated": "Experience updated.",
+            "item_link": "Experience Link",
+            "item_link_description": "A link to a experience."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": "",
+        "menu_icon": "",
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title"
+        ],
+        "taxonomies": "",
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_653ebcdce1a9e",
+        "title": "Portfolio Items",
+        "menu_order": 0,
+        "active": true,
+        "post_type": "portfolio-item",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Portfolio Items",
+            "singular_name": "Portfolio Item",
+            "menu_name": "Portfolio Items",
+            "all_items": "All Portfolio Items",
+            "edit_item": "Edit Portfolio Item",
+            "view_item": "View Portfolio Item",
+            "view_items": "View Portfolio Items",
+            "add_new_item": "Add New Portfolio Item",
+            "add_new": "",
+            "new_item": "New Portfolio Item",
+            "parent_item_colon": "Parent Portfolio Item:",
+            "search_items": "Search Portfolio Items",
+            "not_found": "No portfolio items found",
+            "not_found_in_trash": "No portfolio items found in the bin",
+            "archives": "Portfolio Item Archives",
+            "attributes": "Portfolio Item Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into portfolio item",
+            "uploaded_to_this_item": "Uploaded to this portfolio item",
+            "filter_items_list": "Filter portfolio items list",
+            "filter_by_date": "Filter portfolio items by date",
+            "items_list_navigation": "Portfolio Items list navigation",
+            "items_list": "Portfolio Items list",
+            "item_published": "Portfolio Item published.",
+            "item_published_privately": "Portfolio Item published privately.",
+            "item_reverted_to_draft": "Portfolio Item reverted to draft.",
+            "item_scheduled": "Portfolio Item scheduled.",
+            "item_updated": "Portfolio Item updated.",
+            "item_link": "Portfolio Item Link",
+            "item_link_description": "A link to a portfolio item."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": "",
+        "menu_icon": "",
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title"
+        ],
+        "taxonomies": "",
+        "has_archive": true,
+        "has_archive_slug": "portfolio-archive",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    },
+    {
+        "key": "post_type_653c78fb192ee",
+        "title": "Sections",
+        "menu_order": 0,
+        "active": true,
+        "post_type": "section",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Sections",
+            "singular_name": "Section",
+            "menu_name": "Sections",
+            "all_items": "All Sections",
+            "edit_item": "Edit Section",
+            "view_item": "View Section",
+            "view_items": "View Sections",
+            "add_new_item": "Add New Section",
+            "add_new": "",
+            "new_item": "New Section",
+            "parent_item_colon": "Parent Section:",
+            "search_items": "Search Sections",
+            "not_found": "No sections found",
+            "not_found_in_trash": "No sections found in Trash",
+            "archives": "Section Archives",
+            "attributes": "Section Attributes",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Insert into section",
+            "uploaded_to_this_item": "Uploaded to this section",
+            "filter_items_list": "Filter sections list",
+            "filter_by_date": "Filter sections by date",
+            "items_list_navigation": "Sections list navigation",
+            "items_list": "Sections list",
+            "item_published": "Section published.",
+            "item_published_privately": "Section published privately.",
+            "item_reverted_to_draft": "Section reverted to draft.",
+            "item_scheduled": "Section scheduled.",
+            "item_updated": "Section updated.",
+            "item_link": "Section Link",
+            "item_link_description": "A link to a section."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": true,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": "",
+        "menu_icon": "",
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title"
+        ],
+        "taxonomies": [
+            "category"
+        ],
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    }
+]
